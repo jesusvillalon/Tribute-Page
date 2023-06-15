@@ -1,0 +1,53 @@
+body {
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  #main {
+    background: #eee;
+    margin: 30px 8px;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  img{
+    display: block;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+  }
+  #img-div {
+    background: white;
+    padding: 10px;
+    margin: 10px -10px 45px -10px;
+  }
+  #img-caption {
+    font-size: 1rem;
+    margin: 10px 0;
+  }
+  #headline {
+    margin-bottom: 45px;
+  }
+  #tribute-info > ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  li {
+    padding: 10px 0;
+  }
+  blockquote{
+    font-style:italic;
+    max-width: 500px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
